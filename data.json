@@ -1,8 +1,8 @@
 [
   {
     "full_name": "PointCloudLibrary/pcl",
-    "stargazers_count": 6337,
-    "open_issues_count": 626,
+    "stargazers_count": 6340,
+    "open_issues_count": 625,
     "forks_count": 3887
   },
   {
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "AFLplusplus/AFLplusplus",
-    "stargazers_count": 1827,
-    "open_issues_count": 24,
-    "forks_count": 362
+    "stargazers_count": 1829,
+    "open_issues_count": 23,
+    "forks_count": 363
   },
   {
     "full_name": "tarantool/libslave",
