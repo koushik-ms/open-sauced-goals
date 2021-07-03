@@ -1,26 +1,26 @@
 [
   {
     "full_name": "PointCloudLibrary/pcl",
-    "stargazers_count": 6372,
-    "open_issues_count": 623,
-    "forks_count": 3897
+    "stargazers_count": 6382,
+    "open_issues_count": 626,
+    "forks_count": 3902
   },
   {
     "full_name": "bytedeco/javacpp-presets",
     "stargazers_count": 1842,
-    "open_issues_count": 141,
+    "open_issues_count": 143,
     "forks_count": 578
   },
   {
     "full_name": "AFLplusplus/AFLplusplus",
-    "stargazers_count": 1854,
+    "stargazers_count": 1862,
     "open_issues_count": 21,
-    "forks_count": 372
+    "forks_count": 374
   },
   {
     "full_name": "tarantool/libslave",
     "stargazers_count": 9,
     "open_issues_count": 12,
-    "forks_count": 2
+    "forks_count": 3
   }
 ]
